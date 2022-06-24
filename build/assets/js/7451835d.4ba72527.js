@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website_03=self.webpackChunkmy_website_03||[]).push([[164],{6077:function(e){e.exports=JSON.parse('{"permalink":"/webtest/build/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
